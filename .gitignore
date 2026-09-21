@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/*
+!data/README.md
+results/*
+!results/README.md
+!results/lexical_diversity/
+results/lexical_diversity/*
+!results/lexical_diversity/*.csv
+!results/lexical_diversity/run_metadata.json
+.env
+*.log
