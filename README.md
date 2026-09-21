@@ -29,9 +29,6 @@ latell_stats/
 | 2 | `scripts/evaluation/accuracy_stanza.py` | Evaluate predicted lemmas against 500 manually annotated tokens per language |
 | 3 | `scripts/lexical_diversity/run_lexical_diversity.py` | Generate complete pooled and source-level metric tables |
 
-The analysis runner directly contains the corrected bidirectional MTLD and
-seeded vocd-style D implementations. The obsolete implementations have been
-removed.
 
 ## Running the analysis
 
