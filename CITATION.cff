@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Code for A Kazakh-Russian Corpus of Child-Directed Language for Low-Resource Languages"
+type: software
+authors:
+  - family-names: Mukusheva
+    given-names: Albina
+  - family-names: Fusco
+    given-names: Achille
+  - family-names: Chesi
+    given-names: Cristiano
+year: 2026
+preferred-citation:
+  type: conference-paper
+  title: "A Kazakh-Russian Corpus of Child-Directed Language for Low-Resource Languages"
+  authors:
+    - family-names: Mukusheva
+      given-names: Albina
+    - family-names: Fusco
+      given-names: Achille
+    - family-names: Chesi
+      given-names: Cristiano
+  year: 2026

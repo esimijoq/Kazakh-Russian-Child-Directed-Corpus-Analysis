@@ -1,0 +1,26 @@
+{
+  "corpus": "esimijoq/Kazakh-Russian-Child-Directed-Speech-Corpus",
+  "corpus_revision": "42607bda706c9ca06d00adefe0a2b993cee68346",
+  "excluded_inputs": [
+    "Kazakh/kazakh_all.txt",
+    "Russian/Names_ages_of_children.xlsx"
+  ],
+  "pooled_input_counts": {
+    "kazakh_text_files": 1655,
+    "russian_text_files": 1987,
+    "russian_dialogue_rows": 99605
+  },
+  "tokenizer": "lowercase Unicode regex \\b\\w+\\b",
+  "MATTR_window": 50,
+  "MTLD_threshold": 0.72,
+  "MTLD_directions": "forward and reverse, with partial final factors",
+  "vocd_sample_sizes": "35-50",
+  "vocd_trials_per_size": 100,
+  "vocd_runs": 3,
+  "vocd_seed": 42,
+  "outputs": [
+    "pooled_all_metrics.csv",
+    "source_level_all_metrics.csv",
+    "all_lexical_diversity_metrics.csv"
+  ]
+}

@@ -1,0 +1,9 @@
+matplotlib
+nltk
+numpy
+openpyxl
+pandas
+python-Levenshtein
+scikit-learn
+seaborn
+stanza
