@@ -11,13 +11,15 @@ authors:
     given-names: Cristiano
 year: 2026
 preferred-citation:
-  type: conference-paper
-  title: "A Kazakh-Russian Corpus of Child-Directed Language for Low-Resource Languages"
-  authors:
-    - family-names: Mukusheva
-      given-names: Albina
-    - family-names: Fusco
-      given-names: Achille
-    - family-names: Chesi
-      given-names: Cristiano
-  year: 2026
+@InProceedings{mukusheva-fusco-chesi:2026:latell,
+  author = {Mukusheva, Albina  and  Fusco, Achille  and  Chesi, Cristiano},
+  title = {A Kazakh-Russian Corpus of Child-Directed Language for Low-Resource Languages},
+  booktitle = {Proceedings of the First International Conference on Language Technologies for Low-resource Languages (LaTeLL 2026)},
+  month = {September},
+  year  = {2026},
+  address = {Fes, Morocco},
+  publisher = {Association for Computational Linguistics},
+  pages = {1--7},
+  abstract = {Morphologically rich and low-resource languages present challenges for tokenization and other natural language processing (NLP) tasks. Standard tokenization algorithms often fail to segment words into meaningful morphological units. At the same time, datasets for many low-resource languages remain limited. We introduce a new dataset of child-directed language in Kazakh and Russian compiled from multiple sources including childâ€“adult dialogue transcripts, fairy tales, cartoons and children's literature texts. The dataset is manually collected and contains 1M tokens in Kazakh and 2.3M tokens in Russian. Dialogue data includes metadata such as child age and speaker identity, enabling research on language acquisition and linguistic development. We describe the process of data collection, corpus organization, and basic statistical properties of the dataset. The corpus provides a new resource for research on low-resource NLP, language acquisition, and morphologically-aware tokenization methods.},
+  url = {https://aclanthology.org/2026.latell-1.1}
+}
