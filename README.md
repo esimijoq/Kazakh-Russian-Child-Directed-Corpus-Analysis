@@ -87,8 +87,7 @@ be configured for a new environment.
 ## Citation
 
 Citation metadata for the accompanying paper is provided in
-[`CITATION.cff`](CITATION.cff). Update it with the proceedings DOI and final URL
-when those become available.
+[`CITATION.cff`](CITATION.cff). 
 
 ## License
 
